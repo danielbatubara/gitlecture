@@ -1,0 +1,122 @@
+* {
+	margin-top: 1px;
+	margin-bottom: 1px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.container-fluid {
+	padding-top: 75px;
+	background-color: white;
+}
+body {
+	background-image: url("http://wallpapercave.com/wp/CpRGNUC.jpg");	
+	background-attachment: fixed;
+	position: relative;
+}
+.padding-vertical-25 {
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+.padding-vertical-50 {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.margin-vertical-0 {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.padding-0 {
+	padding: 0px;
+}
+.margin-top-50 {
+	margin-top: 50px;
+}
+.turqoise-background {
+	background-color: #00C091;
+}
+.transparent-background {
+	background-color: transparent;
+	height: 500px;
+	width: auto;
+	padding-top: 175px;
+	position: relative;
+}
+.color-soft-blue {
+	background-color: #D1E2F6;
+}
+.border-radius-chill {
+	border-radius: 18px;
+}
+.img-limit {
+	max-width:100%;
+	max-height:100%;
+}
+.center {
+	text-align: center;
+}
+.background2 {
+	background-image: url("https://www.secureaplus.com/wp-content/uploads/2016/04/SecureAPlus-For-Education-Background.png");
+}
+.background3 {
+	background-image: url("http://www.sjoerdcornelisse.nl/wp-content/uploads/2016/06/office-desk-background-2.jpg");
+}
+.background4 {
+	background-image: url("http://wallpaperpulse.com/img/902487.jpg");
+}
+.background5 {
+	background-image: url("https://images.alphacoders.com/174/thumb-1920-174041.jpg");
+}
+.background-ending {
+	background-image: url("http://www.publicdomainpictures.net/pictures/170000/velka/beach-sand-background.jpg");
+}
+.title-header {
+	background-color: transparent;
+	text-align: center;
+	color: black;
+}
+.display-image-featurette {
+	height: 300px;
+	width: auto;
+}
+.white-color {
+	color: white;
+}
+.heading-title {
+	text-align: center;
+	background-color: transparent;
+	font-size: 50px;
+}
+/*.first-slide, .second-slide, .third-slide {
+	height: 300px;
+	width: auto;
+}*/
+#ending-section {
+	height: 500px;
+	background-color: grey;
+	width: auto;
+}
+.pic-size-140 {
+	width: 140px;
+	height: 140px;
+}
+.pic-size-155 {
+	width: 155px;
+	height: 155px;
+}
+.position-relative {
+	position: relative;
+	margin-bottom: -15px;
+	-moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.background-black-shade {
+	background-color: #202325;
+}
+.skill-1, .skill-2, .skill-3, .skill-4, .skill-5 {
+	font-weight: bold;
+	text-align: right;
+	color: #36FA93;
+}
+.skill-a, .skill-b, .skill-c, .skill-d, .skill-e {
+	
+}
